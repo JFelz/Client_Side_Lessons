@@ -1,11 +1,11 @@
 #### 💻 CODE ALONG
 # 01. Command Line Interface (CLI)
 
-## Introduction
+## <span style="color:#00FFCA">Introduction</span>
 
 The command line is a text based interface that allows you to control your computer. You can use it to navigate your machine’s file structure and perform commands that you can't using just your computers file explorer. Becoming comfortable with your terminal will make you a master of the computer.
 
-## Tools
+## <span style="color:#00FFCA">Tools</span>
 
 - Mac Users: You will be using an application called Terminal
 - Windows Users: You will be using Windows Terminal
