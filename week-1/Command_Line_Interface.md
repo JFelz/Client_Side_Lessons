@@ -27,11 +27,11 @@ Always know where you are `pwd`
 - `rm -rf` - remove a directory and all of its contents
 - `code .` - opens the current directory in VS code.
 
-## ASSIGNMENT
+## <span style="color:#00FFCA">ASSIGNMENT</span>
 
 [Command Line Interface - Youtube Video](https://www.youtube.com/watch?v=zCtjYlNH7-8&ab_channel=Dr.TeresaVasquez)
 
-## NOTE: VIM
+## <span style="color:#00FFCA">NOTE: VIM</span>
 
 If you see this don't panic:
 
